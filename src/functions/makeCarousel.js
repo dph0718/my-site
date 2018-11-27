@@ -3,7 +3,7 @@
 
 import React from 'react';
 import PortfolioCard from "../components/PortfolioCard.js";
-import portfolioItems from "../components/data/portfolioObjects"
+import portfolioItems from "../data/portfolioObjects"
 
 function makeCarousel(row) {
     let allPortfolioItems = portfolioItems.map(pfItem => {

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import portfolioItems from "../components/data/portfolioObjects"
+import portfolioItems from "../data/portfolioObjects"
 import carouselArrange from "../functions/carouselArrange.js"
 
 // [ ] When making the Css for this, make sure to ...

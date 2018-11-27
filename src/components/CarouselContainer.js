@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import makeCarousel from '../functions/makeCarousel.js'
-import portfolioItems from "../components/data/portfolioObjects"
+import portfolioItems from "../data/portfolioObjects"
 import positiono from "../functions/assignPosition.js"
 
 
